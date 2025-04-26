@@ -90,7 +90,7 @@ Install these libraries using the Arduino Library Manager or download from GitHu
 ## 📝 Credits
 
 - Original inspiration: [keebie81 - Instructables Binary Game](https://www.instructables.com/Binary-Game/)
-- Modified, improved and expanded by [skuydi](https://github.com/skuydi)
+- Modified by [skuydi](https://github.com/skuydi)
 
 ---
 
