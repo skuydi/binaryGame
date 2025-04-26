@@ -1,6 +1,6 @@
 # Arduino Binary Game
 
-A fast and educational **binary conversion game** for Arduino, using switches as binary inputs, a TM1637 7-segment display for the number to guess, a MAX7219 8-digit display for the binary representation, a NeoPixel ring for score animation, and a buzzer for feedback.  
+**Binary conversion game** for Arduino, using switches as binary inputs, a TM1637 7-segment display for the number to guess, a MAX7219 8-digit display for the binary representation, a NeoPixel ring for score animation, and a buzzer for feedback.  
 Convert random decimal numbers to binary as quickly as possible, within a time limit and with multiple difficulty levels!
 
 ---
