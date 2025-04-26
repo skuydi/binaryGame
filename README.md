@@ -94,6 +94,13 @@ Install these libraries using the Arduino Library Manager or download from GitHu
 
 ---
 
+## 📸 Pictures
+
+* https://github.com/skuydi/binaryGame/blob/main/IMG_20240826_194823.jpg
+
+---
+
+
 ## 🖥️ License
 
 MIT License.  
